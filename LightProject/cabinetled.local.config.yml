@@ -7,3 +7,4 @@ eureka_hostname: 192.168.1.7
 brightness: 1
 start_up_mode: procedure
 start_up_selection: rainbow
+pixel_order: GRB
